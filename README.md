@@ -8,6 +8,6 @@
 Основной акцент делается на математических идеях, интуиции и логике, которые обуславливают методы и расчетные формулы. Изученный материал будет применим для решения широкого круга задач, возникающих в рамках исследовательской работы практически любого направления.
 
 * :books: **Содержание**
-	* :white_check_mark: [Решение задач курса](https://github.com/pilyay/fundamentals-of-statistics-course-by-bioinformatic-institute/blob/main/fundamentals-of-statistics.ipynb)
+	* :abacus: [Решение задач курса](https://github.com/pilyay/fundamentals-of-statistics-part-1-course-by-bioinformatic-institute/blob/main/tasks/fundamentals_of_statistics_1.ipynb)
 
 * :globe_with_meridians: <https://stepik.org/course/67/>
